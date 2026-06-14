@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/status-In_Progress-orange)
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
+
 # 📚 ERU Library Management System
 
 A C++ console application designed to simulate a basic library management system. This project is a practical implementation of core programming concepts, emphasizing structured logic, memory state tracking, and user input handling.
