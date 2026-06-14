@@ -30,5 +30,9 @@ The system is built with a strong emphasis on clean code and maintainability:
 4. The system updates your cart in the background. 
 5. Select the **Finish Order** option to break the loop and generate a precisely formatted final bill detailing the items, quantities, sub-totals, and the Grand Total.
 
+## 🚧 Work in Progress: Scaling the System
+
+As indicated by the `In Progress` badge, I am actively expanding this project far beyond its original academic scope. I am utilizing this codebase as a practical sandbox to apply the new, advanced C++ concepts and problem-solving techniques I am currently learning. The ultimate goal is to scale this foundational engine into a much larger, more dynamic, and robust software application.
+
 ---
 *Built with logic and teamwork. Part of my journey in establishing a solid software engineering foundation.*
