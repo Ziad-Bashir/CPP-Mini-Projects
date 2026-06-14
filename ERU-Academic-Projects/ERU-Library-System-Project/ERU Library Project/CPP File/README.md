@@ -28,5 +28,9 @@ This system avoids external databases to strictly practice raw C++ data manipula
    * **[3] Borrow Book:** Search for a specific title to borrow. The system validates the input and updates the availability state dynamically.
    * **[4] Exit:** Safely terminate the application.
 
+## 🚧 Work in Progress: Scaling the System
+
+As indicated by the `In Progress` badge, I am actively expanding this project far beyond its original academic scope. I am utilizing this codebase as a practical sandbox to apply the new, advanced C++ concepts and problem-solving techniques I am currently learning. The ultimate goal is to scale this foundational engine into a much larger, more dynamic, and robust software application.
+
 ---
 *Developed by Ziad Bashir | Egyptian Russian University (ERU)*
