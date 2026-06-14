@@ -1,3 +1,10 @@
+
+![Status](https://img.shields.io/badge/status-In_Progress-orange)
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
+
 # 📊 Probability & Statistics Engine
 
 A purely logic-driven C++ console application designed to automate complex statistical computations. This engine takes raw numerical data and programmatically transforms it into structured frequency distributions and plotting coordinates.
