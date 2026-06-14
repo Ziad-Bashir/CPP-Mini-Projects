@@ -2,7 +2,7 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-# 💻 C++ Mini Projects & Core Fundamentals
+# 💻 C++  Projects & Core Fundamentals
 
 Welcome to my C++ digital workspace! 🚀
 
