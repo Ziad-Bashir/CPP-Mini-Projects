@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/status-In_Progress-orange)
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
+
 # 🍔 Restaurant Billing Engine (Collaborative Project)
 
 A highly structured C++ console application developed as a joint software engineering effort. This project simulates a dynamic restaurant ordering and billing system, focusing heavily on modular programming and formatted console output.
