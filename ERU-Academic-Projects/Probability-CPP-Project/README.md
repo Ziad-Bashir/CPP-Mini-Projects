@@ -1,4 +1,3 @@
-
 ![Status](https://img.shields.io/badge/status-In_Progress-orange)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -25,6 +24,10 @@ This project sits at the intersection of mathematical theory and software engine
 3. The engine automatically processes the data to find the Minimum, Maximum, and Range.
 4. It generates and prints a cleanly formatted tabular **Frequency Distribution** displaying the Class Ranges, Mid-Points, and calculated Frequencies.
 5. Finally, the engine outputs the exact **(X, Y) Coordinates** needed to plot a Frequency Polygon graph.
+
+## 🚧 Work in Progress: Scaling the System
+
+As indicated by the `In Progress` badge, I am actively expanding this project far beyond its original academic scope. I am utilizing this codebase as a practical sandbox to apply the new, advanced C++ concepts and problem-solving techniques I am currently learning. The ultimate goal is to scale this foundational engine into a much larger, more dynamic, and robust software application.
 
 ---
 *Building a robust programming foundation by bridging mathematical concepts with C++ logic.*
